@@ -1,4 +1,5 @@
 # FastAPI Secure Egress Proxy
+<img width="1654" height="855" alt="Screenshot 2026-04-15 161305" src="https://github.com/user-attachments/assets/8f0769e3-5c75-41e7-bedd-3e25a1e52708" />
 
 A production-grade **transparent reverse proxy** built with **FastAPI**, designed to securely forward HTTP requests to allowlisted domains with API key authentication.
 
